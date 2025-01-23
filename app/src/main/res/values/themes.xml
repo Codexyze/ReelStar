@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ReelStar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <item name="theme">@color/theme</item>
+    </style>
+
+    <style name="Theme.ReelStar" parent="Base.Theme.ReelStar" />
+</resources>
