@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+proguard-rules.pro
+google-services.json
